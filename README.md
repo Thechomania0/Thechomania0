@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Qi Feng Wu
 
 🎓 **Statistics & Machine Learning @ Carnegie Mellon University (Class of 2029)**  
+
 I also enjoy playing and creating my own video games!
 Pssss... Check out [florexe.io](https://florexe.io/)
 Check out my progress: https://docs.google.com/document/d/1g6c8296cGQijUWZO1qUSNIRcyeP79PmDaP2F7cPHlHY/edit?usp=sharing
